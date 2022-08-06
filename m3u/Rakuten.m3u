@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="https://helmerluzo.github.io/Rakuten_HL/Rakuten.xml.gz"
+#EXTM3U url-tvg="https://helmerluzo.github.io/Rakuten_HL/epg/Rakuten.xml.gz"
 #EXTINF:-1 tvg-id="top-free-es-rakuten-tv" tvg-name="top-free-es-rakuten-tv" tvg-logo="https://images-3.wuaki.tv/system/artworks/150/original/peliculas-top-rakuten-tv-1621956596.png" group-title="Películas" tvg-chno="0", Películas Top
 https://e2480f6eed82498b953d8a2eabd43b4f.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-es_TopFree/playlist.m3u8
 #EXTINF:-1 tvg-id="action-es-rakuten-tv" tvg-name="action-es-rakuten-tv" tvg-logo="https://images-3.wuaki.tv/system/artworks/107/original/peliculas-de-accion-rakuten-tv-1621956288.png" group-title="Películas" tvg-chno="1", Acción
