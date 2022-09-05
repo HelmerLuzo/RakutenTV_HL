@@ -23,8 +23,8 @@ https://a4c5024989df44268e50935f65fb0d88.mediatailor.us-east-1.amazonaws.com/v1/
 https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/channel-hls/v2/77dc314fd75541ff/9991769/master.m3u8?ads.xumo_channelId=9991769
 #EXTINF:-1 tvg-id="shorts-tv-es" tvg-name="shorts-tv-es" tvg-logo="https://images-0.wuaki.tv/system/artworks/309/original/cortos-1644909676.jpeg" group-title="Películas" tvg-chno="56", Cortos
 https://amg00784-shortsinternati-shortstvfastes-rakuten-pdzlz.amagi.tv/hls/amagi_hls_data_rakutenAA-shortstvfastspain-rakuten/CDN/master.m3u8
-#EXTINF:-1 tvg-id="dark-matter-es" tvg-name="dark-matter-es" tvg-logo="https://images-1.wuaki.tv/system/artworks/306/original/dark-matter-1627631485.jpeg" group-title="Películas" tvg-chno="65", Dark Matter
-https://darkmatter-spanish-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-tricoast-dark-matter-spanish-rakuten/CDN/master.m3u8
+#EXTINF:-1 tvg-id="dark-matter-es-new" tvg-name="dark-matter-es-new" tvg-logo="https://images-1.wuaki.tv/system/artworks/306/original/dark-matter-1627631485.jpeg" group-title="Películas" tvg-chno="65", Dark Matter
+https://d39g1vxj2ef6in.cloudfront.net/v1/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/ad887500-7921-418a-a165-82ca94be5710/5.m3u8
 #EXTINF:-1 tvg-id="filmrise-sci-fi-es" tvg-name="filmrise-sci-fi-es" tvg-logo="https://images-3.wuaki.tv/system/artworks/323/original/filmrise-sci-fi-1631546650.jpeg" group-title="Series" tvg-chno="103", FilmRise Sci-Fi
 https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/channel-hls/v2/77dc314fd75541ff/9991763/master.m3u8?ads.xumo_channelId=9991763
 #EXTINF:-1 tvg-id="pongalo-novelaclub" tvg-name="pongalo-novelaclub" tvg-logo="https://images-0.wuaki.tv/system/artworks/246/original/pongalo-novelaclub-1622457227.jpeg" group-title="Series" tvg-chno="106", Pongalo NovelaClub
