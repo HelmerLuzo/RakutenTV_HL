@@ -27,8 +27,6 @@ https://amg00784-shortsinternati-shortstvfastes-rakuten-pdzlz.amagi.tv/hls/amagi
 https://d39g1vxj2ef6in.cloudfront.net/v1/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/ad887500-7921-418a-a165-82ca94be5710/5.m3u8
 #EXTINF:-1 tvg-id="filmrise-sci-fi-es" tvg-name="filmrise-sci-fi-es" tvg-logo="https://images-3.wuaki.tv/system/artworks/323/original/filmrise-sci-fi-1631546650.jpeg" group-title="Series" tvg-chno="103", FilmRise Sci-Fi
 https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/channel-hls/v2/77dc314fd75541ff/9991763/master.m3u8?ads.xumo_channelId=9991763
-#EXTINF:-1 tvg-id="pongalo-novelaclub" tvg-name="pongalo-novelaclub" tvg-logo="https://images-0.wuaki.tv/system/artworks/246/original/pongalo-novelaclub-1622457227.jpeg" group-title="Series" tvg-chno="106", Pongalo NovelaClub
-https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/channel-hls/v2/77dc314fd75541ff/9991760/master.m3u8?ads.xumo_channelId=9991760
 #EXTINF:-1 tvg-id="rakuten-viki-new" tvg-name="rakuten-viki-new" tvg-logo="https://images-0.wuaki.tv/system/artworks/361/original/rakuten-viki-1645608594.jpeg" group-title="Series" tvg-chno="112", Rakuten VIKI
 https://fd18f1cadd404894a31a3362c5f319bd.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/RakutenTV-eu_RakutenViki-1/playlist.m3u8
 #EXTINF:-1 tvg-id="bbc-doctor-who-es" tvg-name="bbc-doctor-who-es" tvg-logo="https://images-0.wuaki.tv/system/artworks/363/original/doctor-who-1639673890.jpeg" group-title="Series" tvg-chno="114", Doctor Who
@@ -37,6 +35,8 @@ https://32ee47381d2c4f0f94add7af019d9483.mediatailor.us-east-1.amazonaws.com/v1/
 https://fc1340aa56954f15a730a7c9ebee2771.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/RakutenTV-es_BBCDrama/playlist.m3u8
 #EXTINF:-1 tvg-id="filmrise-archivos-forenses" tvg-name="filmrise-archivos-forenses" tvg-logo="https://images-1.wuaki.tv/system/artworks/379/original/archivos-forenses-1642607532.jpeg" group-title="Series" tvg-chno="117", Archivos Forenses
 https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads.xumo_channelId=9991779
+#EXTINF:-1 tvg-id="bbc-top-gear-es" tvg-name="bbc-top-gear-es" tvg-logo="https://images-2.wuaki.tv/storage/global-live-channel/translation/artwork/36527b18-2a5c-4977-8c04-60dd6e57db24-top-gear-en-espanol-1651835741.jpeg" group-title="Series" tvg-chno="106", Top Gear en español
+https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/channel-hls/v2/77dc314fd75541ff/9991760/master.m3u8?ads.xumo_channelId=9991760
 #EXTINF:-1 tvg-id="the-pet-collective" tvg-name="the-pet-collective" tvg-logo="https://images-1.wuaki.tv/system/artworks/12/original/the-pet-collective-1600247432.jpeg" group-title="Entretenimiento" tvg-chno="160", Pet Obsessed
 https://6d185bb7400e446f89481c43da8a579c.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-eu_ThePetCollective/playlist.m3u8
 #EXTINF:-1 tvg-id="fail-army" tvg-name="fail-army" tvg-logo="https://images-1.wuaki.tv/system/artworks/13/original/fail-army-1625041973.jpeg" group-title="Entretenimiento" tvg-chno="161", Fail Army
@@ -46,7 +46,7 @@ https://3f01356fd70c4daba7be812b88108d0e.mediatailor.us-east-1.amazonaws.com/v1/
 #EXTINF:-1 tvg-id="peopletv" tvg-name="peopletv" tvg-logo="https://images-0.wuaki.tv/system/artworks/73/original/peopletv-1606130842.jpeg" group-title="Entretenimiento" tvg-chno="163", People TV
 https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/playlist.m3u8?ads.xumo_channelId=9991715
 #EXTINF:-1 tvg-id="insight-tv-spanish" tvg-name="insight-tv-spanish" tvg-logo="https://images-2.wuaki.tv/system/artworks/84/original/insight-tv-1648452013.jpeg" group-title="Entretenimiento" tvg-chno="164", Insight TV
- https://insighttv-spa-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-insighttv-spa-rakuten/CDN/master.m3u8
+ https://insighttv-spa-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-insighttv-spa-rakuten/CDN/1920x1080_4540800/chunklist.m3u8
 #EXTINF:-1 tvg-id="afv-family" tvg-name="afv-family" tvg-logo="https://images-3.wuaki.tv/system/artworks/221/original/afv-family-1622017638.png" group-title="Entretenimiento" tvg-chno="165", AFV Family
 https://ec4a5bcc9d664b48985de6095931aaa7.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-eu_AmericasFunniestHomeVideos/playlist.m3u8
 #EXTINF:-1 tvg-id="just-for-laughs-gags-sp" tvg-name="just-for-laughs-gags-sp" tvg-logo="https://images-1.wuaki.tv/system/artworks/250/original/just-for-laughs-gags-1622458729.jpeg" group-title="Entretenimiento" tvg-chno="167", Just For Laughs Gags - Las mejores bromas
