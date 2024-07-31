@@ -1,6 +1,6 @@
 {
     "name": "Rakuten TV by HL",
-    "author": "Actualizada 31/07/2024 00:11",
+    "author": "Actualizada 31/07/2024 12:10",
     "epg": "https://helmerluzo.github.io/RakutenTV_HL/epg/RakutenTV.xml.gz",
     "image": "https://helmerluzo.github.io/RakutenTV_HL/rakuten.png",
     "url": "https://helmerluzo.github.io/RakutenTV_HL/tv/w3u/RakutenTV_tv.w3u",
@@ -554,13 +554,6 @@
                     "number": "611",
                     "url": "https://brat-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-brat-rakuten/CDN/master.m3u8?ads_amagi_channel=710&ads_amznbrmid=&ads_amznregion=&ads_amznslots=&ads_app_bundle=com.rakuten.tv&ads_app_store_url=rakuten.tv&ads_app_version=&ads_brand_name=&ads_content_classification=0&ads_device_lmt=1&ads_device_make=&ads_device_model=&ads_device_type=web&ads_device_year=&ads_env=prod&ads_gam_correlator=&ads_gdpr_consent=&ads_market=es&ads_os_language=&ads_player_height=&ads_player_width=&ads_pod_type=playerpage_midroll&ads_ppid=&ads_rtv_content_id=2412&ads_rtv_content_language=eng&ads_rtvid=271859&ads_streaming_id=ad449dfb-473d-4ff7-bf22-8bdb767839cd&ads_tivo_devcountry=&ads_tivo_devmakedate=&ads_tivo_mvpd=&ads_tivo_platform=&ads_tivo_usid=&ads_tivo_uxloc=&ads_user_type=visitor",
                     "epgId": "brat-tv"
-                },
-                {
-                    "name": "Teletubbies",
-                    "image": "https://images-3.rakuten.tv/storage/global-live-channel/translation/artwork/72d1ab63-8f66-4dc7-96aa-2c40ba29b02a-teletubbies-1628663792.jpeg",
-                    "number": "615",
-                    "url": "https://f9720666997c4b9297eccb74053f4d54.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/RakutenTV-gb_Teletubbies/playlist.m3u8?ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.app_bundle=com.rakuten.tv&ads.app_store_url=rakuten.tv&ads.app_version=&ads.brand_name=&ads.content_classification=0&ads.device_lmt=1&ads.device_make=&ads.device_model=&ads.device_type=web&ads.device_year=&ads.env=prod&ads.gam_correlator=&ads.gdpr_consent=&ads.market=es&ads.os_language=&ads.player_height=&ads.player_width=&ads.pod_type=playerpage_midroll&ads.ppid=&ads.rtv_content_id=3635&ads.rtv_content_language=eng&ads.rtvid=271859&ads.streaming_id=96b9221f-e838-453e-90de-a5477a1e8bd6&ads.tivo_devcountry=&ads.tivo_devmakedate=&ads.tivo_mvpd=&ads.tivo_platform=&ads.tivo_usid=&ads.tivo_uxloc=&ads.user_type=visitor&ads.wurl_channel=667",
-                    "epgId": "wb-teletubbies-en"
                 },
                 {
                     "name": "Caillou",
