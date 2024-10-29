@@ -1,6 +1,6 @@
 {
     "name": "Rakuten TV by HL",
-    "author": "Actualizada 29/10/2024 12:10",
+    "author": "Actualizada 30/10/2024 00:10",
     "epg": "https://helmerluzo.github.io/RakutenTV_HL/epg/RakutenTV.xml.gz",
     "image": "https://helmerluzo.github.io/RakutenTV_HL/rakuten.png",
     "url": "https://helmerluzo.github.io/RakutenTV_HL/tv/w3u/RakutenTV_tv.w3u",
@@ -664,13 +664,6 @@
                     "epgId": "euronews-live-es"
                 },
                 {
-                    "name": "CNN en Español",
-                    "image": "https://images-2.rakuten.tv/storage/global-live-channel/translation/artwork/919cb801-a714-4e26-b4b1-9fe8e5586375.jpeg",
-                    "number": "878",
-                    "url": "https://amg00803-amg00803c3-rakuten-us-5347.playouts.now.amagi.tv/playlist/amg00803-cnnfastinternational-cnnesponal-rakutenus/playlist.m3u8?ads_amagi_channel=948&ads_amznbrmid=&ads_amznregion=&ads_amznslots=&ads_app_bundle=com.rakuten.tv&ads_app_store_url=rakuten.tv&ads_app_version=&ads_brand_name=&ads_content_classification=0&ads_device_lmt=1&ads_device_make=&ads_device_model=&ads_device_type=web&ads_device_year=&ads_env=prod&ads_gam_correlator=&ads_gdpr_consent=&ads_market=es&ads_os_language=&ads_player_height=&ads_player_width=&ads_pod_type=playerpage_midroll&ads_ppid=&ads_rtv_content_id=6425&ads_rtv_content_language=spa&ads_rtvid=271859&ads_streaming_id=a926504b-47a8-47b5-9d98-def556fcf333&ads_tivo_devcountry=&ads_tivo_devmakedate=&ads_tivo_mvpd=&ads_tivo_platform=&ads_tivo_usid=&ads_tivo_uxloc=&ads_user_type=visitor",
-                    "epgId": "cnne"
-                },
-                {
                     "name": "Reuters",
                     "image": "https://images-2.rakuten.tv/storage/global-live-channel/translation/artwork/8c93419e-2425-44d5-9a32-41d556961543.jpeg",
                     "number": "881",
@@ -725,13 +718,6 @@
                     "number": "894",
                     "url": "https://amg01076-lightning-amg01076c5-rakuten-us-1788.playouts.now.amagi.tv/playlist/amg01076-lightning-newsworld-rakutenus/playlist.m3u8?ads_amagi_channel=867&ads_amznbrmid=&ads_amznregion=&ads_amznslots=&ads_app_bundle=com.rakuten.tv&ads_app_store_url=rakuten.tv&ads_app_version=&ads_brand_name=&ads_content_classification=0&ads_device_lmt=1&ads_device_make=&ads_device_model=&ads_device_type=web&ads_device_year=&ads_env=prod&ads_gam_correlator=&ads_gdpr_consent=&ads_market=es&ads_os_language=&ads_player_height=&ads_player_width=&ads_pod_type=playerpage_midroll&ads_ppid=&ads_rtv_content_id=5636&ads_rtv_content_language=eng&ads_rtvid=271859&ads_streaming_id=c3286c40-c345-42cd-a76a-e54bd39e93e4&ads_tivo_devcountry=&ads_tivo_devmakedate=&ads_tivo_mvpd=&ads_tivo_platform=&ads_tivo_usid=&ads_tivo_uxloc=&ads_user_type=visitor",
                     "epgId": "newsworld"
-                },
-                {
-                    "name": "Breaking News",
-                    "image": "https://images-1.rakuten.tv/storage/global-live-channel/translation/artwork/4a157e4e-eab0-4292-946c-ee21cdbdec6f.jpeg",
-                    "number": "906",
-                    "url": "https://amg02703-leadstory-amg02703c5-rakuten-us-2242.playouts.now.amagi.tv/playlist/amg02703-leadstoryfast-leadstorymega-rakutenus/playlist.m3u8?ads_amagi_channel=896&ads_amznbrmid=&ads_amznregion=&ads_amznslots=&ads_app_bundle=com.rakuten.tv&ads_app_store_url=rakuten.tv&ads_app_version=&ads_brand_name=&ads_content_classification=16&ads_device_lmt=1&ads_device_make=&ads_device_model=&ads_device_type=web&ads_device_year=&ads_env=prod&ads_gam_correlator=&ads_gdpr_consent=&ads_market=es&ads_os_language=&ads_player_height=&ads_player_width=&ads_pod_type=playerpage_midroll&ads_ppid=&ads_rtv_content_id=5783&ads_rtv_content_language=spa&ads_rtvid=271859&ads_streaming_id=10a8be9a-9454-42b6-a9b2-601c915df6e2&ads_tivo_devcountry=&ads_tivo_devmakedate=&ads_tivo_mvpd=&ads_tivo_platform=&ads_tivo_usid=&ads_tivo_uxloc=&ads_user_type=visitor",
-                    "epgId": "breaking-news-es"
                 },
                 {
                     "name": "El País",
