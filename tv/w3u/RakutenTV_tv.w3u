@@ -1,6 +1,6 @@
 {
     "name": "Rakuten TV by HL",
-    "author": "Actualizada 13/11/2024 00:10",
+    "author": "Actualizada 13/11/2024 12:12",
     "epg": "https://helmerluzo.github.io/RakutenTV_HL/epg/RakutenTV.xml.gz",
     "image": "https://helmerluzo.github.io/RakutenTV_HL/rakuten.png",
     "url": "https://helmerluzo.github.io/RakutenTV_HL/tv/w3u/RakutenTV_tv.w3u",
@@ -64,6 +64,13 @@
                     "number": "8",
                     "url": "https://1c4952408fa947df9b6aee4225ff9fd3.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-4452/master.m3u8?ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.app_bundle=com.rakuten.tv&ads.app_store_url=rakuten.tv&ads.app_version=&ads.brand_name=&ads.content_classification=16&ads.device_lmt=1&ads.device_make=&ads.device_model=&ads.device_type=web&ads.device_year=&ads.env=prod&ads.gam_correlator=&ads.gdpr_consent=&ads.ifa_type=ppid&ads.market=es&ads.os_language=&ads.player_height=&ads.player_width=&ads.pod_type=playerpage_midroll&ads.ppid=&ads.rakutentv_channel=4452&ads.rtv_content_id=4452&ads.rtv_content_language=spa&ads.rtvid=271859&ads.streaming_id=6a7a4136-1fc4-4f06-86f0-0d70634e7351&ads.tivo_devcountry=&ads.tivo_devmakedate=&ads.tivo_mvpd=&ads.tivo_platform=&ads.tivo_usid=&ads.tivo_uxloc=&ads.user_type=visitor&channel_id=4452",
                     "epgId": "trailers"
+                },
+                {
+                    "name": "En Familia",
+                    "image": "https://images-1.rakuten.tv/storage/global-live-channel/translation/artwork/f0740120-7a23-4bdb-a2b3-c03f1d78d3f9.jpeg",
+                    "number": "604",
+                    "url": "https://6ba55874ea074d818b347bf766d35316.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-es_RakutenFamily/playlist.m3u8?ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.app_bundle=com.rakuten.tv&ads.app_store_url=rakuten.tv&ads.app_version=&ads.brand_name=&ads.content_classification=12&ads.device_lmt=1&ads.device_make=&ads.device_model=&ads.device_type=web&ads.device_year=&ads.env=prod&ads.gam_correlator=&ads.gdpr_consent=&ads.market=es&ads.os_language=&ads.player_height=&ads.player_width=&ads.pod_type=playerpage_midroll&ads.ppid=&ads.rtv_content_id=2895&ads.rtv_content_language=spa&ads.rtvid=271859&ads.streaming_id=6cd6c819-d3c6-4ce3-b70b-d54669e61636&ads.tivo_devcountry=&ads.tivo_devmakedate=&ads.tivo_mvpd=&ads.tivo_platform=&ads.tivo_usid=&ads.tivo_uxloc=&ads.user_type=visitor&ads.wurl_channel=718",
+                    "epgId": "family-es-rakuten-tv"
                 },
                 {
                     "name": "MyTime Movie Network",
@@ -527,13 +534,6 @@
             "name": "Infantil",
             "image": "https://raw.githubusercontent.com/HelmerLuzo/RakutenTV_HL/main/icons/8.png",
             "stations": [
-                {
-                    "name": "En Familia",
-                    "image": "https://images-1.rakuten.tv/storage/global-live-channel/translation/artwork/f0740120-7a23-4bdb-a2b3-c03f1d78d3f9.jpeg",
-                    "number": "604",
-                    "url": "https://6ba55874ea074d818b347bf766d35316.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-es_RakutenFamily/playlist.m3u8?ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.app_bundle=com.rakuten.tv&ads.app_store_url=rakuten.tv&ads.app_version=&ads.brand_name=&ads.content_classification=12&ads.device_lmt=1&ads.device_make=&ads.device_model=&ads.device_type=web&ads.device_year=&ads.env=prod&ads.gam_correlator=&ads.gdpr_consent=&ads.market=es&ads.os_language=&ads.player_height=&ads.player_width=&ads.pod_type=playerpage_midroll&ads.ppid=&ads.rtv_content_id=2895&ads.rtv_content_language=spa&ads.rtvid=271859&ads.streaming_id=6cd6c819-d3c6-4ce3-b70b-d54669e61636&ads.tivo_devcountry=&ads.tivo_devmakedate=&ads.tivo_mvpd=&ads.tivo_platform=&ads.tivo_usid=&ads.tivo_uxloc=&ads.user_type=visitor&ads.wurl_channel=718",
-                    "epgId": "family-es-rakuten-tv"
-                },
                 {
                     "name": "Rantaró, el ninja boy",
                     "image": "https://images-3.rakuten.tv/storage/global-live-channel/translation/artwork/94270f1d-aca5-40da-af07-34bee0fce750.jpeg",
