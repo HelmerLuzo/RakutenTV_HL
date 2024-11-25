@@ -1,6 +1,6 @@
 {
     "name": "Rakuten TV by HL",
-    "author": "Actualizada 24/11/2024 12:10",
+    "author": "Actualizada 25/11/2024 12:11",
     "epg": "https://helmerluzo.github.io/RakutenTV_HL/epg/RakutenTV.xml.gz",
     "image": "https://helmerluzo.github.io/RakutenTV_HL/rakuten.png",
     "url": "https://helmerluzo.github.io/RakutenTV_HL/tv/w3u/RakutenTV_tv.w3u",
@@ -66,13 +66,6 @@
                     "epgId": "trailers"
                 },
                 {
-                    "name": "En Familia",
-                    "image": "https://images-1.rakuten.tv/storage/global-live-channel/translation/artwork/f0740120-7a23-4bdb-a2b3-c03f1d78d3f9.jpeg",
-                    "number": "604",
-                    "url": "https://6ba55874ea074d818b347bf766d35316.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-es_RakutenFamily/playlist.m3u8?ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.app_bundle=com.rakuten.tv&ads.app_store_url=rakuten.tv&ads.app_version=&ads.brand_name=&ads.content_classification=12&ads.device_lmt=1&ads.device_make=&ads.device_model=&ads.device_type=web&ads.device_year=&ads.env=prod&ads.gam_correlator=&ads.gdpr_consent=&ads.market=es&ads.os_language=&ads.player_height=&ads.player_width=&ads.pod_type=playerpage_midroll&ads.ppid=&ads.rtv_content_id=2895&ads.rtv_content_language=spa&ads.rtvid=271859&ads.streaming_id=6cd6c819-d3c6-4ce3-b70b-d54669e61636&ads.tivo_devcountry=&ads.tivo_devmakedate=&ads.tivo_mvpd=&ads.tivo_platform=&ads.tivo_usid=&ads.tivo_uxloc=&ads.user_type=visitor&ads.wurl_channel=718",
-                    "epgId": "family-es-rakuten-tv"
-                },
-                {
                     "name": "MyTime Movie Network",
                     "image": "https://images-1.rakuten.tv/storage/global-live-channel/translation/artwork/e9ebb3e1-2419-4299-91f5-20256e320589.jpeg",
                     "number": "34",
@@ -106,13 +99,6 @@
             "name": "Series",
             "image": "https://raw.githubusercontent.com/HelmerLuzo/RakutenTV_HL/main/icons/2.png",
             "stations": [
-                {
-                    "name": "Crimen",
-                    "image": "https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork/002815fb-3455-4b8c-baec-384da057d3f2.jpeg",
-                    "number": "100",
-                    "url": "https://dff4f1e3eeda41eeace54282fe06fc05.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/RakutenTV-es_Crimen/playlist.m3u8?ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.app_bundle=com.rakuten.tv&ads.app_store_url=rakuten.tv&ads.app_version=&ads.brand_name=&ads.content_classification=16&ads.device_lmt=1&ads.device_make=&ads.device_model=&ads.device_type=web&ads.device_year=&ads.env=prod&ads.gam_correlator=&ads.gdpr_consent=&ads.market=es&ads.os_language=&ads.player_height=&ads.player_width=&ads.pod_type=playerpage_midroll&ads.ppid=&ads.rtv_content_id=4783&ads.rtv_content_language=spa&ads.rtvid=271859&ads.streaming_id=4dfeed4d-bb7a-4613-9855-4631365dc32b&ads.tivo_devcountry=&ads.tivo_devmakedate=&ads.tivo_mvpd=&ads.tivo_platform=&ads.tivo_usid=&ads.tivo_uxloc=&ads.user_type=visitor&ads.wurl_channel=1493",
-                    "epgId": "crime-series-es-rakuten-tv"
-                },
                 {
                     "name": "FilmRise Sci-Fi",
                     "image": "https://images-1.rakuten.tv/storage/global-live-channel/translation/artwork/daba160d-25f2-4f06-9572-fc2a71dcf277-filmrise-sci-fi-1631546650.jpeg",
@@ -327,13 +313,6 @@
             "name": "Estilo de vida",
             "image": "https://raw.githubusercontent.com/HelmerLuzo/RakutenTV_HL/main/icons/5.png",
             "stations": [
-                {
-                    "name": "Estilo y Vida – Rakuten TV",
-                    "image": "https://images-2.rakuten.tv/storage/global-live-channel/translation/artwork/6105f173-67c1-4e72-8f90-d15c7bba2e55.jpeg",
-                    "number": "394",
-                    "url": "https://c3424062a2d0474f94b334abd2d216c9.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-es_EstiloYVida/playlist.m3u8?ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.app_bundle=com.rakuten.tv&ads.app_store_url=rakuten.tv&ads.app_version=&ads.brand_name=&ads.content_classification=16&ads.device_lmt=1&ads.device_make=&ads.device_model=&ads.device_type=web&ads.device_year=&ads.env=prod&ads.gam_correlator=&ads.gdpr_consent=&ads.market=es&ads.os_language=&ads.player_height=&ads.player_width=&ads.pod_type=playerpage_midroll&ads.ppid=&ads.rtv_content_id=5011&ads.rtv_content_language=spa&ads.rtvid=271859&ads.streaming_id=cc470192-f06c-4536-b318-54e972f8e3d7&ads.tivo_devcountry=&ads.tivo_devmakedate=&ads.tivo_mvpd=&ads.tivo_platform=&ads.tivo_usid=&ads.tivo_uxloc=&ads.user_type=visitor&ads.wurl_channel=1499",
-                    "epgId": "lifestyle-es-rakuten-tv"
-                },
                 {
                     "name": "GQ",
                     "image": "https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork/7f753c4b-55f6-4330-8b59-ae6e35727e22-gq-1645609254.jpeg",
